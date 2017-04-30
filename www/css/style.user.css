@@ -1,0 +1,106 @@
+.ticket-list-user{
+	
+}
+
+.ticket-list-user li{
+	background:white;
+	position:relative;
+	padding:2px;
+}
+
+.ticket-list-user li{
+}
+
+.ticket-list-user li a{
+	padding-bottom:0px;
+}
+
+.ticket-list-user li a hr{
+	padding:0px;
+	margin:0px;
+	background:#D7D7D7;
+	width:70%;
+	margin-top:10px;
+	
+}
+
+.ticket-list-user .content_ticket{
+	font-size:12px;
+	color:#000000;
+}
+
+.ticket-list-user .time_ticket{
+	text-align:right;
+	color:gray;
+	font-size:10px;
+}
+
+.ticket-list-user .status_ticket{
+	display:inline-block;
+	
+	border-radius:4px;
+	
+	font-size:12px;
+	font-weight:400;
+	padding:3px;
+	position:absolute;
+	top:0px;
+	right:0px;
+}
+
+.ticket-list-user .status_ticket.openned{
+	color:white;
+	background:red;
+}
+
+.ticket-list-user .status_ticket.closed{
+	color:white;
+	background:#009688;
+}
+
+.ticket-list-user .status_ticket.process{
+	color:white;
+	background:orange;
+}
+
+.btn-add-ticket{
+	background:#009688!important;
+	color:white!important;
+}
+
+.direct-chat-img{
+}
+
+.direct-chat-reply-name{
+	display:none;
+}
+
+.chat-box-single-line{
+	display:none;
+}
+
+.popup-head-left{
+	font-size:12px;
+	
+}
+
+.pull-left{
+	font-size:17px;
+	font-weight:600;
+}
+
+.direct-chat-messages{
+}
+
+.kuukha-msg{
+	background:#84d57e!important;
+}
+
+.btn-close-the-chat{
+	position: absolute;
+    right: 5px;
+    top: 5px;
+    padding: 2px;
+    background: #009688;
+    color: white
+}
